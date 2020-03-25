@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_free"
+        android:icon="@drawable/ic_free_24dp"
+        android:title="ฟรี"
+        />
+    <item
+        android:id="@+id/nav_store"
+        android:icon="@drawable/ic_store_black_24dp"
+        android:title="ร้านหนังสือ"
+        />
+    <item
+        android:id="@+id/nav_favorite"
+        android:icon="@drawable/ic_favorite_border_black_24dp"
+        android:title="ขายดีที่สุด"
+        />
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="ตั้งค่า"/>
+    <item
+        android:id="@+id/nav_contact"
+        android:icon="@drawable/ic_contact_black_24dp"
+        android:title="ติดต่อ"
+        />
+
+
+</menu>

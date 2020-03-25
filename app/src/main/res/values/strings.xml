@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MiniProject</string>
+
+
+    <!--Toolbars-->
+    <string name="Free">ฟรี</string>
+    <string name="Book">ร้านหนังสือ</string>
+    <string name="Contact">ติดต่อ</string>
+    <string name="Favorite">ขายดีที่สุด</string>
+    <string name="Setting">ตั้งค่า</string>
+
+    <string name="or">ดูเพิ่มเติม</string>
+</resources>
